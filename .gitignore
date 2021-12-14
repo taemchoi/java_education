@@ -1,10 +1,8 @@
 .metadata/
-lifecoding/.classpath/
-lifecoding/.project/
-lifecoding/.bin/
+lifecoding/bin/
 lifecoding/src/mobule-info.java
-programmers/.classpath/
-programmers/.project/
-programmers/.bin/
+.classpath
+.project
+programmers/bin/
 programmers/src/mobule-info.java
 
